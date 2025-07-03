@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DianaMayalo](https://github.com/DianaMayalo)
 
-- 💬 Ask me about **Python**, **SQL**
+- 💬 Ask me about **Python**, **SQL**, **Machine Learning**
 
 - 📫 How to reach me **dianamayalo28@gmail.com**
 
