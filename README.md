@@ -41,9 +41,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianamayalo&show_icons=true&locale=en&layout=compact" alt="Diana's Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dianamayalo&show_icons=true&locale=en" alt="Diana's GitHub Stats" />
-</p>
+| 📊 Top Languages | ⚡ Activity Overview |
+| :---: | :---: |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dianamayalo&layout=compact&theme=dark&hide_border=false" height="195" alt="Diana's Top Languages" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dianamayalo&show_icons=true&theme=dark&hide_border=false" height="195" alt="Diana's GitHub Stats" /> |
+
