@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🧠 **Data Scientist & AI Engineer** specializing in end-to-end Machine Learning lifecycles, Data Engineering, and MLOps.
-- 👨‍💻 All of my projects are available at [github.com/DianaMayalo](https://github.com/DianaMayalo)
+- 👨‍💻 My Portfolio [Diana-portfolio](https://v0-dianamayalo-portolio.vercel.app/)
 - 💬 Ask me about **Python, SQL, Deep Learning, and AI Strategy**
 - 📫 How to reach me: **dianamayalo28@gmail.com**
 - ⚡ Fun fact: **I am obsessed with puzzle games**
@@ -19,64 +19,16 @@
 
 ### 🛠️ Tech Stack & Skills
 
-#### 🤖 Machine Learning & Advanced AI
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-</p>
-<ul>
-  <li><strong>Deep Learning & Vision:</strong> CNN Architectures, Neural Networks, Image Classification</li>
-  <li><strong>Natural Language Processing (NLP):</strong> Text Processing, Sentiment Analysis, NLP Pipelines</li>
-  <li><strong>Core ML:</strong> Regression, Classification, Clustering, Time Series Forecasting</li>
-</ul>
+| Category | Technologies & Frameworks | Domain Expertise |
+| :--- | :--- | :--- |
+| **🤖 Machine Learning & AI** | <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" /> | Deep Learning, CNN Architectures, Image Classification, NLP Pipelines, Sentiment Analysis, Time Series Forecasting, Core ML (Regression, Classification, Clustering) |
+| **🗄️ Data Engineering** | <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" /> | Robust ETL Pipelines, Advanced SQL, Data Wrangling, Complex Schema Design, Performance Optimization |
+| **☁️ MLOps & DevOps** | <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white" /> | AWS (EC2, S3, Lambda), Google Earth Engine, CI/CD Automation, Containerization (Docker), Linux Systems, Deployment via Vercel & Streamlit Cloud |
+| **📊 Analytics & BI** | <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=Plotly&logoColor=white" /> | Interactive Dashboard Design, Data Storytelling, Advanced Excel, SPSS, Statistical Visualization (Matplotlib, Seaborn) |
+| **🛠️ Engineering & Strategy** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" /> <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" /> | Object-Oriented Programming (OOP), RESTful API Design, AI Consultancy, Systems Thinking, End-to-End Process Automation |
 
-#### 🗄️ Data Engineering & Pipelines
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-<ul>
-  <li>Advanced SQL, Data Wrangling, and building robust <strong>ETL Pipelines</strong></li>
-</ul>
+---
 
-#### ☁️ MLOps, Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
-<ul>
-  <li><strong>Cloud:</strong> AWS (EC2, S3, Lambda), Google Earth Engine, Vercel, Streamlit Cloud</li>
-  <li><strong>DevOps:</strong> CI/CD Pipelines, Containerization (Docker), Automation</li>
-</ul>
-
-#### 📊 Business Intelligence & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly" />
-</p>
-<ul>
-  <li><strong>Visualization:</strong> Matplotlib, Seaborn, Interactive Dashboard Design</li>
-  <li>Advanced Excel, SPSS, and Data Storytelling</li>
-</ul>
-
-#### 🛠️ Software Engineering & Strategy
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
-<ul>
-  <li>Object-Oriented Programming (OOP), RESTful API Design</li>
-  <li>AI Consultancy, Process Automation, and System Thinking</li>
-</ul>
 
 ---
 
