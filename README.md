@@ -11,7 +11,7 @@
 
 - 🧠 **Data Scientist & AI Engineer** specializing in end-to-end Machine Learning lifecycles, Data Engineering, and MLOps.
 - 👨‍💻 My Portfolio [Diana-portfolio](https://v0-dianamayalo-portolio.vercel.app/)
-- 💬 Ask me about **Python, SQL, Deep Learning, and AI Strategy**
+- 💬 Ask me about **Python, SQL, Machine Learning, Deep Learning, and AI Strategy**
 - 📫 How to reach me: **dianamayalo28@gmail.com**
 - ⚡ Fun fact: **I am obsessed with puzzle games**
 
